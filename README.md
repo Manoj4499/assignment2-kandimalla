@@ -5,7 +5,7 @@ Cricket is a very popular sport that is played all over the world. It can be pla
 ## Favorite Team And Players
  ### INDIA
  1.Rohit Sharma
- 2.Sachin Tendulkar
- 3.Virendra Sehwag
+ 2.Sachin Tendulkar<br>
+ 3.Virendra Sehwag<br>
 
  
