@@ -21,3 +21,8 @@ Cricket is a very popular sport that is played all over the world. It can be pla
 | INDIA | There is a stunning bueaty one of the seventh wonder **Taj Mahal**, Wild Life, Hystoric Places  | Ten days Tour |
 | USA | New Technology, Architecture, Nationala Parks, Wild Life | One Week |
 | UK | Beautiful Gardens, Best View Spots, Music Festivals, Hystoric arts  | One Week |
+
+---
+# Funny Quotes
+>“There is nothing better than a friend, unless it’s a friend with chocolate.” — *Linda Grayson.* <br>
+“One loyal friend is worth ten thousand relatives.” — *Euripides.*
