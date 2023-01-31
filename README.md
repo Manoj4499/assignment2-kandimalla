@@ -26,3 +26,17 @@ Cricket is a very popular sport that is played all over the world. It can be pla
 # Funny Quotes
 >“There is nothing better than a friend, unless it’s a friend with chocolate.” — *Linda Grayson.* <br>
 “One loyal friend is worth ten thousand relatives.” — *Euripides.*
+
+---
+# wordpress
+>How can I get the image url in a Wordpress theme? <br>
+[Stack over flow link](https://stackoverflow.com/questions/3262925/how-can-i-get-the-image-url-in-a-wordpress-theme) <br>
+
+```  
+add_theme_support('post-thumbnails');  
+get_the_post_thumbnail();  
+$thumb_id = get_post_thumbnail_id();  
+$thumb_url_array = wp_get_attachment_image_src($thumb_id, 'thumbnail-size', true);  
+$thumb_url = $thumb_url_array[0];  
+```
+[quick link](https://css-tricks.com/snippets/wordpress/get-featured-image-url/)
