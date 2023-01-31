@@ -30,7 +30,7 @@ Cricket is a very popular sport that is played all over the world. It can be pla
 ---
 # wordpress
 >How can I get the image url in a Wordpress theme? <br>
-[Stack over flow link](https://stackoverflow.com/questions/3262925/how-can-i-get-the-image-url-in-a-wordpress-theme) <br>
+<https://stackoverflow.com/questions/3262925/how-can-i-get-the-image-url-in-a-wordpress-theme>
 
 ```  
 add_theme_support('post-thumbnails');  
