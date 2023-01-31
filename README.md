@@ -13,3 +13,11 @@ Cricket is a very popular sport that is played all over the world. It can be pla
  *Sri Lanka <br>
 
  [Link of aboutme](AboutMe.md)
+
+
+ #### This is a visiting countries table
+| Name Of a Country | Reason to Visit | Time to Spend |
+| :--- | :---: | ---: |
+| INDIA | There is a stunning bueaty one of the seventh wonder **Taj Mahal**, Wild Life, Hystoric Places  | Ten days Tour |
+| USA | New Technology, Architecture, Nationala Parks, Wild Life | One Week |
+| UK | Beautiful Gardens, Best View Spots, Music Festivals, Hystoric arts  | One Week |
