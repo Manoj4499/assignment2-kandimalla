@@ -8,4 +8,6 @@ Cricket is a very popular sport that is played all over the world. It can be pla
  2.Rohit Sharma <br>
  3.Virendra Sehwag <br>
 
- 
+ *South Africa <br>
+ *Bangladesh <br>
+ *Sri Lanka <br>
